@@ -2,8 +2,8 @@
 Changelog for package gz_plugin_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.0.2 (2024-04-08)
+------------------
 * Update vendored version to 2.0.3
 * Fix sourcing of .dsv file
 * Require calling `find_package` on the underlying package
